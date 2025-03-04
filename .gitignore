@@ -1,0 +1,6 @@
+.DS_Store
+.vscode/
+dependencies/
+menu/opengl_app
+opengl_app
+edge_detection/opengl_app

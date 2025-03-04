@@ -1,0 +1,3 @@
+gcc triangle_fan.c -o opengl_app -std=c11 -framework OpenGL -framework GLUT
+
+./opengl_app 
